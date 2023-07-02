@@ -10,6 +10,10 @@
 
 <hr>
 
-
 ### Flight Management System Class Diagram
 ![airPlaneManagment](https://github.com/MuammerAydemir/OOP_Patika/assets/91261556/3874d3de-c4e9-4882-a3d7-986c3acf3778)
+
+<hr>
+
+### Film Management System Class Diagram
+![filmManagement](https://github.com/MuammerAydemir/OOP_Patika/assets/91261556/8cc5ff80-5715-4870-9d67-e8e570a072e0)
