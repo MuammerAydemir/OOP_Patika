@@ -17,3 +17,8 @@
 
 ### Film Management System Class Diagram
 ![filmManagement](https://github.com/MuammerAydemir/OOP_Patika/assets/91261556/8cc5ff80-5715-4870-9d67-e8e570a072e0)
+
+<hr>
+
+### Elevator Management System Class Diagram
+![ElevatorManagment drawio](https://github.com/MuammerAydemir/OOP_Patika/assets/91261556/b37c5658-aa8d-47dc-8950-6feed6543d2a)
